@@ -1,0 +1,47 @@
+body{
+	font-family: 'Inconsolata', monospace;
+	max-height: 100;
+
+}
+
+/*.espacio-arriba{
+	margin-top: 100px;
+}*/
+
+.fondo{
+	background-color: #D1D1D1;
+
+}
+/*.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+} */
+
+/*.marco{
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+	background-color: white;
+}
+*/
+/*.bibliografia{
+	margin-left: auto;
+}*/
+
+.fuentes{
+	font-size: 360%;
+}
+
+.fondo-div{
+	background-color: #eee;
+	position: relative;
+	padding: 3%;
+	margin: 5%;
+}
+
+/*figure{
+	border: 2px solid #bbb;
+	padding: 5px;
+}*/
